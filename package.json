@@ -11,9 +11,11 @@
   "license": "ISC",
   "dependencies": {
     "es6-module-loader": "^0.17.11",
-    "traceur": "0.0.108"
+    "traceur": "0.0.108",
+    "axios": ">=0.21.2"
   },
   "devDependencies": {
-    "lite-server": "^2.6.1"
+    "lite-server": "^2.2.0",
+    "axios": ">=0.21.2"
   }
 }
